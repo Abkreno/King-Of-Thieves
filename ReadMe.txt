@@ -21,7 +21,7 @@ OpenGL2DTemplate.vcxproj.filters
     similar extensions under a specific node (for e.g. ".cpp" files are associated with the
     "Source Files" filter).
 
-OpenGL2DTemplate.cpp
+KingOfThieves.cpp
     This is the main application source file.
 
 /////////////////////////////////////////////////////////////////////////////
